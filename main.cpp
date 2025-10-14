@@ -5,5 +5,6 @@ int main() {
     Simulador sim;
     UI ui(sim);
     ui.executa();
+    //TESTE
     return 0;
 }
